@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiff03
 - 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning linear algebra, UNIX, and C programming language
+- :computer: I’m currently learning data processing with Python and website creation with HTML
 - 💃 My hobbies include dancing and graphic design
 - 📫 How to reach me:
   - :envelope: [Email] (tyu9@bu.edu)
