@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tiff03
 - 👀 I’m interested in data science and machine learning
 - :computer: I’m currently learning about data processing and website creation
-- 💃 My hobbies include dancing and graphic design
+- 💃 My hobbies include dancing, graphic design, and video editing
 - 📫 How to reach me:
   - :envelope: [Email] (tyu9@bu.edu)
   - :office: [LinkedIn] (www.linkedin.com/in/tiffanyyyu)
