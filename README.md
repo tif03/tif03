@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tiff03
+- 👋 Hi, I’m @tif03
 - 👀 I’m interested in data science and machine learning
 - :computer: I’m currently learning about data processing and website creation
 - 💃 My hobbies include dancing, graphic design, and video editing
