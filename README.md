@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tif03
+- 👋 Hi, I’m Tiffany
 - 👀 I’m interested in data science and machine learning
-- :computer: I’m currently learning about data processing and website creation
+- :computer: I’m currently learning about web app development
 - 💃 My hobbies include dancing, graphic design, and video editing
 - 📫 How to reach me:
   - :envelope: [Email] (tyu9@bu.edu)
