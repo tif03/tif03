@@ -3,7 +3,7 @@
 - :computer: I’m currently learning about front and back end software development
 - 💃 My hobbies include dancing, graphic design, and video editing
 - 📫 How to reach me:
-  - :envelope: [Email] (tyu9@bu.edu)
+  - :envelope: [Email] (ty427@cornell.edu)
   - :office: [LinkedIn] (www.linkedin.com/in/tiffanyyyu)
 
 <!---
